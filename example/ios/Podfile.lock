@@ -1,0 +1,29 @@
+PODS:
+  - AcceptCardSDK (5.2.6)
+  - Flutter (1.0.0)
+  - paymob_plugin (0.0.1):
+    - AcceptCardSDK
+    - Flutter
+
+DEPENDENCIES:
+  - Flutter (from `Flutter`)
+  - paymob_plugin (from `.symlinks/plugins/paymob_plugin/ios`)
+
+SPEC REPOS:
+  trunk:
+    - AcceptCardSDK
+
+EXTERNAL SOURCES:
+  Flutter:
+    :path: Flutter
+  paymob_plugin:
+    :path: ".symlinks/plugins/paymob_plugin/ios"
+
+SPEC CHECKSUMS:
+  AcceptCardSDK: 150bd23738356782609758283b4d523b4f2836d7
+  Flutter: 0e3d915762c693b495b44d77113d4970485de6ec
+  paymob_plugin: ffa22579c8b05b939121742a6dd7599cf824492e
+
+PODFILE CHECKSUM: aafe91acc616949ddb318b77800a7f51bffa2a4c
+
+COCOAPODS: 1.9.1
